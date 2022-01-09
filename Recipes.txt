@@ -9,4 +9,6 @@ pizza
 This is line 9
 
 Not Final copy 
+New Changes
+All Changes
 
