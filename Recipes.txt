@@ -4,7 +4,8 @@ This is chicken fry
 This is feature branch
 Chicken curry
 
-This is line 8
-This is line 7
 
-Not a final copy
+This is line 7
+This is line 8
+Final copy 
+
